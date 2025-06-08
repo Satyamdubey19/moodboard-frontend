@@ -1,0 +1,12 @@
+.quote-box {
+  padding: 1rem;
+  background-color: #f0f4f8;
+  border-left: 5px solid #60a5fa;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+.quote-text {
+  font-size: 1.1rem;
+  color: #333;
+}

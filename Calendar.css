@@ -1,0 +1,22 @@
+.calendar {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+.day-box {
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 5px;
+  width: 120px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.date {
+  font-size: 18px;
+  font-weight: bold;
+}
+select {
+  margin-top: 8px;
+  width: 100%;
+}

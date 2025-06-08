@@ -1,0 +1,17 @@
+.summary-container {
+  margin-top: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.mood-graph {
+  display: flex;
+  margin-top: 10px;
+}
+.mood-bar {
+  height: 20px;
+  width: 14%;
+  margin-right: 5px;
+  border-radius: 4px;
+}

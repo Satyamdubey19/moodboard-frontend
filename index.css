@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #fafafa;
+  color: #333;
+}
+
+button {
+  outline: none;
+  border: none;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+button:focus {
+  outline: 2px solid #000;
+}
